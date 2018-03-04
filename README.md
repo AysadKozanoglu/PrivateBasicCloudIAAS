@@ -1,5 +1,18 @@
 # PrivateBasicCloudIAAS
 
+install
+
+<pre>
+wget https://bootstrap.pypa.io/get-pip.py -O - | python
+pip install psutil
+
+git clone https://github.com/big3v/PrivateBasicCloudIAAS.git
+cd PrivateBasicCloudIAAS
+python setup.py
+</pre>
+
+
+
 Updated instructions on the following link:
 https://big3v.com/how-to-create-a-private-basic-cloud-infrastructure/
 
